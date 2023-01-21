@@ -168,6 +168,7 @@ System.out.print(temp.rollNumber + "\t" +  temp.name + "\t" +  temp.dept +"\t"  
 		 }
 		}
 	}
+	         // menu options
 		public static void displayMenu() {
 			System.out.println("\t1.create new record");
 			System.out.println("\t2.enter student roll number to delete record");
